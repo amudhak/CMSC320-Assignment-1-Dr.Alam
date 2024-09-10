@@ -1,3 +1,8 @@
 Q1: Why might be consider using git?
 
 Answer: Since we will be working in groups for this class, it will be useful for sharing code.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science could be applied to the medical research field, for example, to make cancer predictions. Data Science could potentially be used to predict whether a tumor is malignant or not, as an example.
+
