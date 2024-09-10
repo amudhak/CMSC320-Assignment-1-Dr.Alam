@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data Science could be applied to the medical research field, for example, to make cancer predictions. Data Science could potentially be used to predict whether a tumor is malignant or not, as an example.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the commit sequence intact by combining the history of two branches into one. Rebasing instead rewrites history by putting changes one after the other.
+
+
